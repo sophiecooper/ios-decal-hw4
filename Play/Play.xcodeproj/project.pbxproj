@@ -17,6 +17,7 @@
 		3AC696771C0A816C005A63F8 /* SoundCloudAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AC696761C0A816C005A63F8 /* SoundCloudAPI.swift */; };
 		3AC6967B1C0A8659005A63F8 /* next.png in Resources */ = {isa = PBXBuildFile; fileRef = 3AC6967A1C0A8659005A63F8 /* next.png */; };
 		3AC6967D1C0A865E005A63F8 /* previous.png in Resources */ = {isa = PBXBuildFile; fileRef = 3AC6967C1C0A865E005A63F8 /* previous.png */; };
+		6358A4741CC6BB8E009AA4ED /* SoundCloud.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6358A4731CC6BB8E009AA4ED /* SoundCloud.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		3AC696761C0A816C005A63F8 /* SoundCloudAPI.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SoundCloudAPI.swift; sourceTree = "<group>"; };
 		3AC6967A1C0A8659005A63F8 /* next.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = next.png; sourceTree = "<group>"; };
 		3AC6967C1C0A865E005A63F8 /* previous.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = previous.png; sourceTree = "<group>"; };
+		6358A4731CC6BB8E009AA4ED /* SoundCloud.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = SoundCloud.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +72,7 @@
 				3AA8F0071C097DB8005ACCBD /* AppDelegate.swift */,
 				3AA8F00E1C097DB8005ACCBD /* Assets.xcassets */,
 				3AA8F0101C097DB8005ACCBD /* LaunchScreen.storyboard */,
+				6358A4731CC6BB8E009AA4ED /* SoundCloud.storyboard */,
 				3AA8F0131C097DB8005ACCBD /* Info.plist */,
 			);
 			path = Play;
@@ -161,6 +164,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6358A4741CC6BB8E009AA4ED /* SoundCloud.storyboard in Resources */,
 				3AA8F0121C097DB8005ACCBD /* LaunchScreen.storyboard in Resources */,
 				3AC696731C0A808C005A63F8 /* play.png in Resources */,
 				3AC6967B1C0A8659005A63F8 /* next.png in Resources */,
